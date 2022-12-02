@@ -1,7 +1,8 @@
-# Hi, My name is Sergio and i'm learning Python
+# Hi, My name is Sergio 😊
 
 ### Currently working on:
 - My first discord bot 😊
+- Learning Golang
 
 ### My Contacts:
 
